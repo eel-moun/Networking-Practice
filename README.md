@@ -1,3 +1,6 @@
+
+this is not my personal guide this is only to show what i learned in this project.
+shout out to [lpaube](https://github.com/lpaube) for making this beautiful guide.
 # Guide to NetPractice
 
 ![netpractice logo](img/NetPractice.png)
